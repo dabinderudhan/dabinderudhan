@@ -16,7 +16,7 @@ The only way to learn to code is to write a lot of code
 
 I am a Junior Front End Developer with tech stack on HTML, CSS, SASS, Tailwind CSS, JavaScript, ReactJs.
 * **I like to develope beautiful and responsive websites**
-- 🌱 I’m currently working on improving my skills ...
+- 🌱 I’m currently working on improving my skills in ...
   - <a href="https://www.javascript.com/">JavaScript</a>
   - <a href="https://reactjs.org/">React js</a>
 - 👯 I’m looking forward to collaborate on open source projects.
