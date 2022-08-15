@@ -28,7 +28,7 @@ I am a Junior Front End Developer with tech stack on
 
 &nbsp;&nbsp;
 
-* **I like to develope beautiful and responsive websites**
+* **I like to develop beautiful and responsive websites**
 - 🌱 I’m currently working on improving my skills in ...
   - <a href="https://www.javascript.com/">JavaScript</a>
   - <a href="https://reactjs.org/">React js</a>
