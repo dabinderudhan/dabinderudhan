@@ -15,7 +15,7 @@ The only way to learn to code is to write a lot of code
 <img alt="programing gif" align="right" width=300px src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" />
 
 I am a Junior Front End Developer with tech stack on HTML, CSS, SASS, Tailwind CSS, JavaScript, ReactJs.
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
 * **I like to develope beautiful and responsive websites**
 - 🌱 I’m currently working on improving my skills in ...
