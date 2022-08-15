@@ -40,7 +40,7 @@ I am a Junior Front End Developer with tech stack on
 - 💠 Stay In Touch: <a href = "https://www.linkedin.com/in/dabinder-udhan-50133813/">◻ Linkedin</a> <a href = "https://www.facebook.com/dabinder.udhan">◻ Facebook</a> <a href = "https://twitter.com/dabinderudhan">◻ Twitter</a>
 <br>
 <h1>Most Languages Used</h1>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={dabinderudhan}"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dabinderudhan"/>
 
 <!--
 
