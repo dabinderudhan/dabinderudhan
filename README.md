@@ -14,10 +14,19 @@ The only way to learn to code is to write a lot of code
 
 <img alt="programing gif" align="right" width=300px src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" />
 
-I am a Junior Front End Developer with tech stack on HTML, CSS, SASS, Tailwind CSS, JavaScript, ReactJs.
+I am a Junior Front End Developer with tech stack on
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
+
+&nbsp;&nbsp;
 
 * **I like to develope beautiful and responsive websites**
 - 🌱 I’m currently working on improving my skills in ...
